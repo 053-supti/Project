@@ -161,7 +161,7 @@ h4{
     margin-top: 20px;
     border-radius: 50%;
 }
-.quotes .col-3:hover{
+.quotes .col-3 : hover{
     transform: translateY(-10px);
 }
 
